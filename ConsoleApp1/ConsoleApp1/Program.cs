@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 
 namespace ConsoleApp1
 {
@@ -7,6 +8,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! please be seated");
+            //code to add feature 3
         }
     }
 }
