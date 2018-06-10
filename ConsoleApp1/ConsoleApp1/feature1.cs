@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -8,8 +8,8 @@ namespace ConsoleApp1
     {
         public int add()
         {
-            int x = 15;
-            int y = 20;
+            var x = 15;
+            var y = 20;
             return (x + y);
         }
     }
