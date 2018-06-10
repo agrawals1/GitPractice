@@ -10,7 +10,8 @@ namespace ConsoleApp1
         {
             int x = 15;
             int y = 20;
-            return (x + y);
+            int z = 30;
+            return (x + y +z);
         }
     }
 }
